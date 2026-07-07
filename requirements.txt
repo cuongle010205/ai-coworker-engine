@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+langchain
+langgraph
+faiss-cpu
+openai
+python-dotenv
+pydantic
+sqlalchemy
+tiktoken
+numpy
+langchain-openai
+langchain-community
+faiss-cpu
+google-genai
+python-dotenv
+sentence-transformers
